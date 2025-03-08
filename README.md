@@ -41,7 +41,7 @@ Cards are color-coded based on their difficulty (easy, medium, hard), providing 
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://drive.google.com/file/d/1dJyN0Myf48AD6Rn6gqXzFCv93nlzBW_W/view' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="https://drive.google.com/file/d/1dJyN0Myf48AD6Rn6gqXzFCv93nlzBW_W/preview" width="640" height="480"></iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
